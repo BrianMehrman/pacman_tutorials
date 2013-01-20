@@ -1,0 +1,1 @@
+﻿package game.content.tiles {	import game.map.SpawnTile;		public class EnemySpawnTile extends SpawnTile {		public function EnemySpawnTile() {			// constructor code		}	}	}
