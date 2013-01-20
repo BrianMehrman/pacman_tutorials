@@ -1,11 +1,1 @@
-package game.content.tiles {
-	
-	public class StartTile {
-
-		public function StartTile() {
-			// constructor code
-		}
-
-	}
-	
-}
+﻿package game.content.tiles {	import game.content.tiles.StartTile;	public class StartTile {		public function StartTile() {			// constructor code		}	}	}

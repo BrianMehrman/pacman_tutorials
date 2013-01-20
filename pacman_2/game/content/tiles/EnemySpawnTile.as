@@ -1,1 +1,1 @@
-﻿package game.content.tiles {	import game.map.SpawnTile;		public class EnemySpawnTile extends SpawnTile {		public function EnemySpawnTile() {			// constructor code		}	}	}
+﻿package game.content.tiles {	import game.map.SpawnTile;	import game.map.Tile;	public class EnemySpawnTile extends Tile {		public function EnemySpawnTile():void {			// constructor code			super(false, 0, false);		}	}	}

@@ -13,6 +13,17 @@
   <externalLibraries editable="false"/>
   <compileList editable="false"/>
   <recentFiles editable="false">
+    <uri label="Game.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/Game.as</uri>
+    <uri label="ClosedTile.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/ClosedTile.as</uri>
+    <uri label="Tile.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/map/Tile.as</uri>
+    <uri label="SpawnTile.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/map/SpawnTile.as</uri>
+    <uri label="EnemySpawnTile.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/EnemySpawnTile.as</uri>
+    <uri label="OpenTile.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/OpenTile.as</uri>
+    <uri label="Map.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/map/Map.as</uri>
+    <uri label="Controls.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/controls/Controls.as</uri>
+    <uri label="MovementHandler.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/MovementHandler.as</uri>
+    <uri label="GameObject.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/GameObject.as</uri>
+    <uri label="GameClient.as">file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/GameClient.as</uri>
     <uri label="MovementHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/MovementHandler.as</uri>
     <uri label="Controls.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/controls/Controls.as</uri>
     <uri label="GameObject.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/GameObject.as</uri>
