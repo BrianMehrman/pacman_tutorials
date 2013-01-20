@@ -1,0 +1,1 @@
+﻿package game.content.tiles {	import game.map.Tile;	public class ClosedTile extends Tile {		public function ClosedTile():void {			super(true, 0, false);		}	}}

@@ -1,0 +1,1 @@
+﻿package game.content.tiles {	import game.map.Tile;	public class SlopeTilePosTop extends Tile {		public function SlopeTilePosTop():void {			super(true, 1, true);		}	}}
