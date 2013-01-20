@@ -1,1 +1,1 @@
-﻿package game.content.tiles {	import game.content.tiles.StartTile;	public class StartTile {		public function StartTile() {			// constructor code		}	}	}
+﻿package game.content.tiles {	import game.map.Tile;	//import game.content.tiles.StartTile;	public class StartTile extends Tile {		public function StartTile() {			// constructor code			super(true, 0, false);		}	}	}
