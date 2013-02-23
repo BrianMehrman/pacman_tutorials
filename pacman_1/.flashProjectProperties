@@ -6,13 +6,14 @@
   <classTemplate>file:///Macintosh HD/Users/brian/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
   <classPath>.</classPath>
   <defaultApp>file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_1/pacman.fla</defaultApp>
-  <rootURI>file:///Macintosh%20HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_1/</rootURI>
+  <rootURI>file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_1/</rootURI>
   <flexSDK/>
   <sources editable="false"/>
   <libraries editable="false"/>
   <externalLibraries editable="false"/>
   <compileList editable="false"/>
   <recentFiles editable="false">
+    <uri label="HeroHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_1/game/objects/HeroHandler.as</uri>
     <uri label="pacman.fla">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_1/pacman.fla</uri>
     <uri label="Game.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_1/game/Game.as</uri>
     <uri label="Main.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_1/Main.as</uri>
