@@ -1,1 +1,1 @@
-﻿package game.content.tiles {	import game.map.Tile;	//import game.content.tiles.StartTile;	public class StartTile extends Tile {		public function StartTile() {			// constructor code			super(true, 0, false);		}	}	}
+﻿package game.content.tiles {	import game.map.Tile;	import game.map.SpawnTile;	//import game.content.tiles.StartTile;	public class StartTile extends SpawnTile {		public function StartTile(spawn:Class, delay:int) {			// constructor code			super(spawn, delay, false, 0, false);		}	}	}

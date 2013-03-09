@@ -33,12 +33,14 @@
 				},
 				{
 					"id":7,
+					"spawnClass":"game.content.heroes.Pacman",
+					"startDelay":0,
 					"flashClass":"game.content.tiles.StartTile"
 				},
 				{
 					"id":8,
 					"spawnClass":"game.content.enemies.Blinky",
-					"startDelay":1,
+					"startDelay":5,
 					"flashClass":"game.content.tiles.EnemySpawnTile"
 				},
 				{
