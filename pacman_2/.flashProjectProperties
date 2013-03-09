@@ -13,7 +13,9 @@
   <externalLibraries editable="false"/>
   <compileList editable="false"/>
   <recentFiles editable="false">
+    <uri label="MovementHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/MovementHandler.as</uri>
     <uri label="GameObject.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/GameObject.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/Main.as</uri>
     <uri label="EnemyHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/EnemyHandler.as</uri>
     <uri label="OpenTile.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/OpenTile.as</uri>
     <uri label="SpawnTile.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/map/SpawnTile.as</uri>
@@ -22,7 +24,6 @@
     <uri label="TargetTileMovement.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/TargetTileMovement.as</uri>
     <uri label="GameClient.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/GameClient.as</uri>
     <uri label="Pellet.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/Pellet.as</uri>
-    <uri label="MovementHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/MovementHandler.as</uri>
     <uri label="Pacman.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/heroes/Pacman.as</uri>
     <uri label="Game.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/Game.as</uri>
     <uri label="GameEvent.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/GameEvent.as</uri>
@@ -34,7 +35,6 @@
     <uri label="GameObjectEvent.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/GameObjectEvent.as</uri>
     <uri label="Hero.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/Hero.as</uri>
     <uri label="pacman_2.fla">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/pacman_2.fla</uri>
-    <uri label="Main.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/Main.as</uri>
     <uri label="InputHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/controls/InputHandler.as</uri>
     <uri label="ClosedTile.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/ClosedTile.as</uri>
     <uri label="StartTile.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/StartTile.as</uri>
@@ -45,7 +45,6 @@
     <uri label="SlopeTileNegBottom.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/SlopeTileNegBottom.as</uri>
     <uri label="SlopeTileNegTop.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/SlopeTileNegTop.as</uri>
     <uri label="SlopeTilePosBottom.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/tiles/SlopeTilePosBottom.as</uri>
-    <uri label="Pellet.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/objects/Pellet.as</uri>
     <uri label="HeroHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/objects/HeroHandler.as</uri>
     <uri label="TileEvent.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/map/TileEvent.as</uri>
     <uri label="Blinky.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_2/game/content/enemies/Blinky.as</uri>

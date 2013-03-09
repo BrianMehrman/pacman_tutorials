@@ -1,0 +1,1 @@
+﻿package game.content.tiles {	import game.map.Tile;	public class FillerTile extends Tile {		public function FillerTile():void {			super(true, 0, false);		}	}}

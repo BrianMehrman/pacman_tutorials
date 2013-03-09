@@ -1,0 +1,1 @@
+﻿package game.content.heroes {	import game.objects.Hero;	import game.Game;		public class Pacman extends Hero {		public function Pacman(xTile:uint, yTile:uint, dirX:int, dirY:int, clientHero:Boolean, game:Game):void {			// constructor code			super(24, 24, xTile, yTile, dirX, dirY, 5, 10, 2, clientHero, game);		}			}	}
