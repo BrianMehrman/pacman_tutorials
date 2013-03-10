@@ -13,6 +13,8 @@
   <externalLibraries editable="false"/>
   <compileList editable="false"/>
   <recentFiles editable="false">
+    <uri label="GameClient.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/GameClient.as</uri>
+    <uri label="ScoreBoard.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/map/ScoreBoard.as</uri>
     <uri label="Controls.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/controls/Controls.as</uri>
     <uri label="InputHandler.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/controls/InputHandler.as</uri>
     <uri label="KeyEvent.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/controls/KeyEvent.as</uri>
@@ -21,7 +23,6 @@
     <uri label="SpawnTile.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/map/SpawnTile.as</uri>
     <uri label="GameObject.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/objects/GameObject.as</uri>
     <uri label="Hero.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/objects/Hero.as</uri>
-    <uri label="GameClient.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/GameClient.as</uri>
     <uri label="pacman_3.fla">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/pacman_3.fla</uri>
     <uri label="AIController.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/controls/AIController.as</uri>
     <uri label="Enemy.as">file:///Macintosh HD/Users/brian/Documents/Flash/Tutorials/pacman-tutorials/pacman_3/game/objects/Enemy.as</uri>
