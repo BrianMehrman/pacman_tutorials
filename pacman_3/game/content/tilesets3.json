@@ -51,13 +51,13 @@
 				},
 				{
 					"id":10,
-					"spawnClass":"game.content.Pinky",
+					"spawnClass":"game.content.enemies.Pinky",
 					"startDelay":15,
 					"flashClass":"game.content.tiles.EnemySpawnTile"
 				},
 				{
 					"id":11,
-					"spawnClass":"game.content.Clyde",
+					"spawnClass":"game.content.enemies.Clyde",
 					"startDelay":20,
 					"flashClass":"game.content.tiles.EnemySpawnTile"
 				}
