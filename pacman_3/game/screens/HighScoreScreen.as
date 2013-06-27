@@ -1,0 +1,1 @@
+﻿package game.screens {	import flash.display.MovieClip;		public class HighScoreScreen extends MovieClip {		public function HighScoreScreen() {			// constructor code		}	}	}

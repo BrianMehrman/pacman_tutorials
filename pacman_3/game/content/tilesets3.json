@@ -60,6 +60,16 @@
 					"spawnClass":"game.content.enemies.Clyde",
 					"startDelay":20,
 					"flashClass":"game.content.tiles.EnemySpawnTile"
+				},
+				{
+					"id":12,
+					"spawnClass":"game.content.items.Pellet",
+					"flashClass":"game.content.tiles.ItemSpawnTile"
+				},
+				{
+					"id":13,
+					"spawnClass":"game.content.items.SuperPellet",
+					"flashClass":"game.content.tiles.ItemSpawnTile"
 				}
 			]
 		}

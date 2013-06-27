@@ -1,0 +1,1 @@
+﻿package game.content.items {	import game.objects.Item;	import game.Game;		public class Pellet extends Item {		public function Pellet(xTile:uint, yTile:uint, game:Game):void {			// constructor code			super(12, 12, xTile, yTile, game);		}	}	}
